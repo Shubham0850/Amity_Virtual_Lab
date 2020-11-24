@@ -1,0 +1,98 @@
+.p {
+  background-image: url("./half-add.png");
+  width: 700px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+#b1 {
+  box-sizing: border-box;
+}
+#b2 {
+  width: 70px;
+  position: relative;
+  left: 240px;
+  top: -5px;
+  box-shadow: -5px 0px 5px;
+}
+#b3 {
+  width: 70px;
+  position: relative;
+  left: 275px;
+  top: -5px;
+  box-shadow: -5px 0px 5px;
+}
+#b4 {
+  left: 200px;
+  position: relative;
+  width: 80px;
+
+  box-shadow: -5px 0px 5px;
+}
+#b5 {
+  left: 122px;
+  position: relative;
+  top: 35px;
+  width: 80px;
+  box-shadow: -5px 0px 5px;
+}
+#b6 {
+  position: relative;
+  width: 90px;
+  left: 10px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to right bottom,
+    #00ff21,
+    #14ed2b,
+    #1fdb31,
+    #26c935,
+    #2bb837,
+    #42b747,
+    #53b755,
+    #62b662,
+    #82c680,
+    #a0d59e,
+    #bee5bc,
+    #dcf4db
+  );
+}
+#b7 {
+  top: 40px;
+  left: -80px;
+  position: relative;
+  width: 90px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to left top,
+    #dc2626,
+    #e33a37,
+    #e94b48,
+    #ef5b58,
+    #f46a68,
+    #f77778,
+    #f88387,
+    #f99096,
+    #f89fa7,
+    #f5adb7,
+    #f1bcc6,
+    #edcad2
+  );
+}
+#b8 {
+  width: 70px;
+  position: relative;
+  top: 455px;
+  left: 90px;
+  box-shadow: -5px 0px 5px;
+}
+#b9 {
+  width: 70px;
+  position: relative;
+  top: 455px;
+  left: 120px;
+
+  box-shadow: -5px 0px 5px;
+}

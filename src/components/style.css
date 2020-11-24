@@ -1,0 +1,157 @@
+/* Profile link component css */
+.profile-img img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.profile-name p {
+  margin-top: -5px;
+}
+.profile-link {
+  display: flex;
+  align-items: center;
+}
+
+/* Subject Card css */
+.subject-card {
+  width: 20vw;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.2);
+  cursor: pointer;
+  margin: 2px 10px;
+}
+.subject-card:hover {
+  box-shadow: 0px 0px 60px -12px rgba(0, 0, 0, 0.5);
+}
+.subject-bg {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  /* height: 20vw; */
+  border-radius: 15px;
+}
+.new-subject-bg {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 250px;
+  border-radius: 15px;
+}
+.electrical {
+  background-image: url("../images/electrical.jpg");
+}
+.electronics {
+  background-image: url("../images/electronics.jpg");
+}
+.computer {
+  background-image: url("../images/computer-organisation.jpg");
+}
+.subject-details {
+  padding: 5px;
+}
+/* Small Nav css */
+.small-nav {
+  width: 100%;
+  padding: 30px 0px;
+  display: flex;
+  align-items: center;
+  color: grey;
+}
+
+.small-nav .nav-icon {
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+.small-nav .nav-icon img {
+  width: 40px;
+}
+.small-nav .nav-icon:hover {
+  background: #ededed;
+}
+.logic {
+  height: 200px;
+  background-image: url("../images/logic.png");
+}
+.diode {
+  height: 200px;
+  background-image: url("../images/diode.jpg");
+}
+.zener {
+  height: 200px;
+  background-image: url("../images/zener.png");
+}
+.bjt {
+  height: 200px;
+  background-image: url("../images/bjtImage.jpg");
+}
+.half-add {
+  height: 200px;
+  background-image: url("../images/h-add.gif");
+}
+.half-sub {
+  height: 200px;
+  background-image: url("../images/h-sub.jpg");
+}
+.full-sub {
+  height: 200px;
+  background-image: url("../images/f-sub.jpg");
+}
+.full-add {
+  height: 200px;
+  background-image: url("../images/f-add.png");
+}
+.four-add {
+  height: 200px;
+  background-image: url("../images/four-add.png");
+}
+.four-sub {
+  height: 200px;
+  background-image: url("../images/four-sub.jpg");
+}
+.encoder {
+  height: 200px;
+  background-image: url("../images/enco.jpg");
+}
+.decoder {
+  height: 200px;
+  background-image: url("../images/deco.jpg");
+}
+.multi {
+  height: 200px;
+  background-image: url("../images/multi.jpg");
+}
+.de-multi {
+  height: 200px;
+  background-image: url("../images/de-multi.jpg");
+}
+.sine {
+  height: 200px;
+  background-image: url("../images/sine.png");
+}
+.survey {
+  height: 200px;
+  background-image: url("../images/survey.jpg");
+}
+
+.semiconductor {
+  height: 200px;
+}
+.experiment-card {
+  padding: 5px;
+  border-bottom: 2px solid #ededed;
+  width: 100%;
+  margin: 5px 8px;
+  background: #fff;
+}
+.experiment-card:hover {
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.15);
+}
+.smallH {
+  color: rgb(80, 72, 72);
+}

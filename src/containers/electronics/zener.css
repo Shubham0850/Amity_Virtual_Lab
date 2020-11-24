@@ -1,0 +1,34 @@
+.exp {
+  min-width: 700px;
+  min-height: 600px;
+  background-position: center;
+  background-size: cover;
+}
+.zener-div {
+  background-image: url("../img/zener.png");
+}
+.zenerMain {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a-reading {
+  width: 30px;
+  position: relative;
+  top: 65px;
+  left: 500px;
+}
+.v-reading {
+  width: 30px;
+  position: relative;
+  top: 208px;
+  left: 620px;
+}
+.in-reading {
+  width: 80px;
+  position: relative;
+  top: 310px;
+  left: 50px;
+}

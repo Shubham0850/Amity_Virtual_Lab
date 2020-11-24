@@ -1,0 +1,51 @@
+.main_division {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  margin: 100px;
+  border: 70px solid #fff;
+  border-radius: 20px;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.2);
+}
+.imageBuilder {
+  width: 47vw;
+  height: 30vw;
+}
+.diff_image_back {
+  width: 100%;
+  height: 28vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image_details {
+  position: relative;
+  top: 28vw;
+  bottom: 0;
+  padding: 10px;
+}
+.tripod {
+  background-image: url("./CE_Survey_images/tripod.jpg");
+}
+.avi {
+  background-image: url("./CE_Survey_images/avi.png");
+}
+.cross {
+  background-image: url("./CE_Survey_images/cross.gif");
+}
+.mt {
+  background-image: url("./CE_Survey_images/mt.jpg");
+}
+.bench {
+  background-image: url("./CE_Survey_images/bench.jpg");
+}
+.staff {
+  background-image: url("./CE_Survey_images/staff.jpg");
+}
+.hair {
+  background-image: url("./CE_Survey_images/hair.jpg");
+}
+.read {
+  background-image: url("./CE_Survey_images/read.jpg");
+}

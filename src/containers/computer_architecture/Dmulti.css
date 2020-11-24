@@ -1,0 +1,126 @@
+.d-multi-bg-img-div {
+  width: 700px;
+  height: 600px;
+  background-image: url("./demulti.jpeg");
+
+  background-position: center;
+  background-size: cover;
+  margin: 05px auto;
+  border-radius: 05px;
+}
+.d-multi {
+  padding: 10px;
+  box-sizing: border-box;
+}
+.d-multi-1 {
+  position: relative;
+  top: 45px;
+  left: 35px;
+  width: 60px;
+}
+.d-multi-2 {
+  position: relative;
+  top: 620px;
+  left: 220px;
+  width: 60px;
+}
+.d-multi-3 {
+  position: relative;
+  top: 620px;
+  left: 80px;
+  width: 60px;
+}
+.d-multi-4 {
+  position: relative;
+  top: 620px;
+  left: -55px;
+  width: 60px;
+}
+.d-multi-5 {
+  position: relative;
+  width: 60px;
+  top: 455px;
+  left: 140px;
+}
+.d-multi-6 {
+  position: relative;
+  width: 60px;
+  left: 70px;
+  top: 390px;
+}
+.d-multi-7 {
+  position: relative;
+  width: 60px;
+  left: 02px;
+  top: 315px;
+}
+.d-multi-8 {
+  position: relative;
+  width: 60px;
+  left: -70px;
+  top: 250px;
+}
+.d-multi-9 {
+  position: relative;
+  width: 60px;
+  left: 540px;
+  top: 130px;
+}
+.d-multi-10 {
+  position: relative;
+  width: 60px;
+  left: 470px;
+  top: 65px;
+}
+.d-multi-11 {
+  position: relative;
+  width: 60px;
+  left: 400px;
+  top: 01px;
+}
+.d-multi-12 {
+  position: relative;
+  top: 465px;
+  left: 330px;
+  width: 60px;
+}
+.dmulti-btn-1 {
+  position: relative;
+  width: 30px;
+  top: 45px;
+  left: -175px;
+}
+.dmulti-btn-2 {
+  position: relative;
+  width: 30px;
+  top: 580px;
+  left: -9px;
+}
+.dmulti-btn-3 {
+  position: relative;
+  width: 30px;
+  top: 580px;
+  left: -100px;
+}
+.dmulti-btn-4 {
+  position: relative;
+  width: 30px;
+  top: 580px;
+  left: -200px;
+}
+.dmulti-btn5-run {
+  width: 100px;
+  background: yellowgreen;
+  /* background-image: linear-gradient(to right bottom, #0fd5f8, #37d3ee, #40c0d6, #41b4c9, #52b3b9, #77b4cc, #86c6da, #125286, #105f77, #170bbd, #3a069c, #5b05ca); */
+  position: relative;
+  top: -40px;
+  left: -450px;
+}
+.dmulti-btn6-clear {
+  width: 100px;
+  position: relative;
+  background: yellowgreen;
+  /* background-image: linear-gradient(to right bottom, #0fd5f8, #37d3ee, #40c0d6, #41b4c9, #52b3b9, #649aaf, #86c6da, #125286, #105f77, #170bbd, #3a069c, #5b05ca); */
+  top: 05px;
+  left: -550px;
+}

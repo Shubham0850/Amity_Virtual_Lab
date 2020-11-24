@@ -1,0 +1,107 @@
+.zz {
+  background-image: url("./full-add.png");
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+#c1 {
+  width: 70px;
+  position: relative;
+  left: 150px;
+  top: 10px;
+  box-shadow: -5px 0px 5px;
+}
+#c2 {
+  position: relative;
+  width: 70px;
+  top: 10px;
+  left: 112px;
+  box-shadow: -5px 0px 5px;
+}
+#c3 {
+  position: relative;
+  width: 70px;
+  top: 50%;
+  left: 190px;
+  box-shadow: -5px 0px 5px;
+}
+#c4 {
+  position: relative;
+  width: 70px;
+  top: 455px;
+  left: -110px;
+  box-shadow: -5px 0px 5px;
+}
+#c5 {
+  position: relative;
+  width: 70px;
+  top: 400px;
+  left: 160px;
+  box-shadow: -5px 0px 5px;
+}
+#c6 {
+  position: relative;
+  top: -50px;
+  width: 70px;
+  box-shadow: -5px 0px 5px;
+}
+#c7 {
+  position: relative;
+  width: 70px;
+  top: -50px;
+  left: 130px;
+  box-shadow: -5px 0px 5px;
+}
+#c8 {
+  position: relative;
+  width: 70px;
+  top: 150px;
+  left: 135px;
+  box-shadow: -5px 0px 5px;
+}
+#c9 {
+  position: relative;
+  width: 90px;
+  left: 10px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to right bottom,
+    #00ff21,
+    #14ed2b,
+    #1fdb31,
+    #26c935,
+    #2bb837,
+    #42b747,
+    #53b755,
+    #62b662,
+    #82c680,
+    #a0d59e,
+    #bee5bc,
+    #dcf4db
+  );
+}
+#c10 {
+  top: 40px;
+  left: -80px;
+  position: relative;
+  width: 90px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to left top,
+    #dc2626,
+    #e33a37,
+    #e94b48,
+    #ef5b58,
+    #f46a68,
+    #f77778,
+    #f88387,
+    #f99096,
+    #f89fa7,
+    #f5adb7,
+    #f1bcc6,
+    #edcad2
+  );
+}

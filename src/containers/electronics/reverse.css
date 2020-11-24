@@ -1,0 +1,29 @@
+.reverse-div {
+  min-width: 760px;
+  background-image: url("../img/reverse.png");
+}
+.reverse {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.r-a-reading {
+  width: 30px;
+  position: relative;
+  top: -16px;
+  left: 375px;
+}
+.r-v-reading {
+  width: 30px;
+  position: relative;
+  top: 182px;
+  left: 665px;
+}
+.r-input {
+  width: 80px;
+  position: relative;
+  top: 400px;
+  left: 60px;
+}

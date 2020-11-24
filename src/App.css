@@ -1,0 +1,37 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo img {
+  width: 100px;
+}
+.navbar {
+  box-shadow: 0px 0px 75px -24px rgba(0,0,0,0.15);
+  width: 95%;
+  max-width: 1350px;
+  padding: 10px 30px;
+  margin: 10px auto;
+  background-color: #63a4ff;
+  background-image: linear-gradient(315deg, #63a4ff 5%, #83eaf1 94%);
+  border-radius: 25px;
+}
+.logo {
+  width: 30%; 
+}
+.nav-components {
+  width: 30%;
+}
+.nav-components ul {
+  list-style: none;
+}
+.links {
+  text-decoration: none;
+}
+.links:hover {
+  color: black;
+}
+
+.loading img{
+  margin: 10px auto;
+}

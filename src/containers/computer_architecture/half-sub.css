@@ -1,0 +1,68 @@
+.r{
+	background-image: url("./half-sub.png");
+	width: 500px;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    margin: 5px auto;
+    border-radius: 10px;
+}
+#a1{
+	position: relative;
+ width: 70px;
+top: 40px;
+left: 135px;
+box-shadow: -5px 0px 5px;
+}
+#a2{
+  position: relative;
+  width: 70px;
+ left: 100px;
+ top: 40px;
+ box-shadow: -5px 0px 5px;
+}
+#a3{
+	position: relative;
+  width: 70px;
+  top: 420px;
+  left: -60px;
+  box-shadow: -5px 0px 5px;
+}
+#a4{
+   position: relative;
+   width: 70px;
+   top: 420px;
+   left: -98px;
+   box-shadow: -5px 0px 5px;
+}
+#a5{
+	position: relative;
+	box-shadow: -5px 0px 5px;
+	width: 70px;
+	top: 20px;
+
+ }
+#a6{
+	position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 70px;
+  left: 420px;
+  top: 15px;
+}
+#a7{
+	position: relative;
+ width: 90px;
+ left: 10px;
+ box-shadow: -5px 0px 5px;
+ background-image: linear-gradient(to right bottom, #00ff21, #14ed2b, #1fdb31, #26c935, #2bb837, #42b747, #53b755, #62b662, #82c680, #a0d59e, #bee5bc, #dcf4db);
+
+
+}
+#a8{
+	top: 40px;
+	left:-80px;
+	position: relative;
+	width: 90px;
+	box-shadow: -5px 0px 5px;
+	background-image: linear-gradient(to left top, #dc2626, #e33a37, #e94b48, #ef5b58, #f46a68, #f77778, #f88387, #f99096, #f89fa7, #f5adb7, #f1bcc6, #edcad2);
+}

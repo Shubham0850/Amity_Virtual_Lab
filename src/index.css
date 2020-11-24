@@ -1,0 +1,38 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(71, 71, 71);
+}
+html{
+  height: 100vh;
+  overflow-y: hidden;
+}
+input{
+  background: #ededed;
+  outline: none;
+  border: 2px solid #cccccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}
+a{
+  text-decoration: none;
+}
+select{
+  border: none;
+  outline: none;
+  font-size: 20px;
+  background: #d8d5d5;
+  padding: 5px 10px;
+  margin: 2px auto;
+  border-radius: 10px;
+}
+button{
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}

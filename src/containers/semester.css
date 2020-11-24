@@ -1,0 +1,16 @@
+.buttonGroup {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  align-content: center;
+}
+.btn__sem {
+  background-color: #63a4ff;
+  background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+  margin: 30px;
+  padding: 30px;
+  width: 300px;
+  color: white;
+  font-size: 30px;
+}

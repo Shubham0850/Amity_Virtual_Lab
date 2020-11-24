@@ -1,0 +1,28 @@
+.forward-div {
+  background-image: url("../img/forward.png");
+}
+.forward {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.f-a-reading {
+  width: 30px;
+  position: relative;
+  top: -3px;
+  left: 340px;
+}
+.f-v-reading {
+  width: 30px;
+  position: relative;
+  top: 180px;
+  left: 610px;
+}
+.f-input {
+  width: 80px;
+  position: relative;
+  top: 400px;
+  left: 60px;
+}

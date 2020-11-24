@@ -1,0 +1,240 @@
+.pc {
+  background-image: url("../img/multiplexer.png");
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+#s1 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 344px;
+  left: 40px;
+}
+#s2 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 310px;
+  left: -10px;
+}
+#s3 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 270px;
+  left: -62px;
+}
+#s4 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 230px;
+  left: -112px;
+}
+#s5 {
+  width: 50px;
+  top: 190px;
+  left: -163px;
+  position: relative;
+  box-shadow: -5px 0px 5px;
+}
+#s6 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 153px;
+  left: -216px;
+}
+#s7 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 110px;
+  left: -268px;
+}
+#s8 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 75px;
+  left: -315px;
+}
+#s9 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 405px;
+  right: 200px;
+}
+#s10 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 405px;
+  right: 300px;
+}
+#s11 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 50px;
+  top: 365px;
+  left: 100px;
+}
+#s12 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 305px;
+  left: -60px;
+  border-radius: 60px;
+}
+#s13 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 270px;
+  left: -109px;
+  border-radius: 60px;
+}
+#s14 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 230px;
+  left: -160px;
+  border-radius: 60px;
+}
+#s15 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 190px;
+  left: -210px;
+  border-radius: 60px;
+}
+#s16 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 150px;
+  left: -260px;
+  border-radius: 60px;
+}
+#s17 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 112px;
+  left: -313px;
+  border-radius: 60px;
+}
+#s18 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 70px;
+  left: -365px;
+  border-radius: 60px;
+}
+#s19 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 405px;
+  right: 250px;
+  border-radius: 60px;
+}
+#s20 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  right: 414px;
+  top: 35px;
+  border-radius: 60px;
+}
+#s21 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 357px;
+  left: 150px;
+  border-radius: 60px;
+}
+#s22 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 40px;
+  height: 33.5px;
+  top: 355px;
+  right: -50px;
+  border-radius: 60px;
+}
+#s23 {
+  position: relative;
+  box-shadow: -5px 0px 5px;
+  width: 60px;
+  height: 40px;
+  top: 125px;
+  right: -320px;
+  border-radius: 60%;
+}
+#ab {
+  position: relative;
+  width: 90px;
+  left: 10px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to right bottom,
+    #00ff21,
+    #14ed2b,
+    #1fdb31,
+    #26c935,
+    #2bb837,
+    #42b747,
+    #53b755,
+    #62b662,
+    #82c680,
+    #a0d59e,
+    #bee5bc,
+    #dcf4db
+  );
+}
+#ba {
+  top: 40px;
+  left: -80px;
+  position: relative;
+  width: 90px;
+  box-shadow: -5px 0px 5px;
+  background-image: linear-gradient(
+    to left top,
+    #dc2626,
+    #e33a37,
+    #e94b48,
+    #ef5b58,
+    #f46a68,
+    #f77778,
+    #f88387,
+    #f99096,
+    #f89fa7,
+    #f5adb7,
+    #f1bcc6,
+    #edcad2
+  );
+}
+button:hover {
+  background-color: #63b8ff;
+}

@@ -1,0 +1,71 @@
+.bjt-cb-in-bg-img-div {
+  width: 1100px;
+  height: 500px;
+  background-image: url("../img/bjt-cb-in.png");
+
+  background-position: center;
+  background-size: cover;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+.bjt-cb-in {
+  padding: 15px;
+  box-sizing: border-box;
+}
+.bjt-cb-1-inp {
+  position: relative;
+  top: 370px;
+  left: 170px;
+  width: 60px;
+}
+.bjt-cb-2-inp {
+  position: relative;
+  top: 350px;
+  right: -780px;
+  width: 60px;
+}
+.bjt-cb-3-out {
+  position: relative;
+  top: 17px;
+  left: 150px;
+  background: transparent;
+  width: 80px;
+  border: none;
+}
+.bjt-cb-4-out {
+  position: relative;
+  top: 14px;
+  left: 430px;
+  background: transparent;
+  width: 80px;
+  border: none;
+}
+.bjt-cb-5-out {
+  position: relative;
+  top: 241px;
+  left: -25px;
+  background: transparent;
+  width: 80px;
+  border: none;
+}
+.bjt-cb-6-out {
+  position: relative;
+  top: 241px;
+  left: 250px;
+  background: transparent;
+  width: 80px;
+  border: none;
+}
+.bjt-btn-run {
+  width: 100px;
+  background: yellowgreen;
+  position: relative;
+  top: 500px;
+}
+.bjt-btn-clear {
+  width: 100px;
+  background: yellowgreen;
+  position: relative;
+  top: 500px;
+  left: 10px;
+}

@@ -1,0 +1,193 @@
+
+.hell{
+	background-image: url("./subfour.png");
+	width: 800px;
+    height: 800px;
+	background-size: cover;
+	background-position: center;
+	margin: 5px auto;
+    border-radius: 10px;
+}
+#btn561{
+	position: relative;
+	box-shadow: -10px 0px 5px ;
+	top: 170px;
+    right: 470px;
+}
+#btn562{
+	position: relative;
+	box-shadow: -10px 0px 5px ;
+	top: 170px;
+    right: 510px;
+}
+#btn563{
+	position: relative;
+	box-shadow: -10px 0px 5px ;
+	top: 115px;
+    left: 275px;
+}
+#btn564{
+	position: relative;
+	box-shadow: -10px 0px 5px ;
+	top: 115px;
+    left: 235px;
+}
+#btn565{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	top: 115px;
+    left: 210px;}
+#btn566{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	top: 115px;
+    left: 170px;
+}
+#btn567{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	top: 115px;
+   left: 140px;
+}
+#btn568{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	top: 115px;
+    left: 100px;
+}
+#btn569{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 100px;
+	top: 110px;
+	left: 5px;
+	background-image: linear-gradient(
+    to right bottom,
+    #00ff21,
+    #14ed2b,
+    #1fdb31,
+    #26c935,
+    #2bb837,
+    #42b747,
+    #53b755,
+    #62b662,
+    #82c680,
+    #a0d59e,
+    #bee5bc,
+    #dcf4db);
+}
+#btn5610{
+	position: relative;
+	width: 100px;
+	box-shadow: -10px 0px 5px;
+	top: 150px;
+	left:-120px;
+	background-image: linear-gradient(
+    to left top,
+    #dc2626,
+    #e33a37,
+    #e94b48,
+    #ef5b58,
+    #f46a68,
+    #f77778,
+    #f88387,
+    #f99096,
+    #f89fa7,
+    #f5adb7,
+    #f1bcc6,
+    #edcad2);
+}
+#int1{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+    left: 140px;
+}
+#int2{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+    left: 115px;
+}
+#int3{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+    left: 125px;
+}
+#int4{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+	left: 100px;
+}
+#int5{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+	left: 100px;
+}
+#int6{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+    left: 75px;
+}
+#int7{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+	left: 70px;
+}
+#int8{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 210px;
+    left: 45px;}
+#int9{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 430px;
+	right: 375px;
+}
+#int10{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	 top: 430px;
+    right: 320px;
+}
+
+#int11{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 430px;
+    left: -265px;
+}
+#int12{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 375px;
+   left: 605px;
+}
+#int13{
+	position: relative;
+	box-shadow: -10px 0px 5px;
+	width: 40px;
+	top: 240px;
+    /* right: 210px; */
+    left: -70px;
+}
+
+

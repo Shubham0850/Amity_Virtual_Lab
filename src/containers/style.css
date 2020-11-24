@@ -1,0 +1,257 @@
+/* Home container Style-sheet */
+.home {
+  width: 100vw;
+  height: auto;
+  padding: 0px 50px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  max-width: 1350px;
+  margin: 0px auto;
+}
+.home-left {
+  width: 40%;
+}
+.home-right {
+  width: 60%;
+}
+.img {
+  width: 115%;
+}
+.home-left h1 {
+  font-size: 50px;
+  padding: 0px;
+}
+.btn {
+  padding: 10px 25px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 15px;
+  margin: 5px 0px;
+}
+.btn:hover {
+  box-shadow: 0px 0px 60px -12px rgba(0, 0, 0, 0.2);
+}
+.atom-bg {
+  width: 200px;
+  position: absolute;
+  bottom: 0px;
+  left: -5px;
+  z-index: -1;
+  opacity: 0.3;
+}
+
+/* Lab css */
+.lab {
+  width: 100%;
+  height: auto;
+  padding: 20px 50px;
+}
+.lab .flex {
+  justify-content: start;
+}
+.lab-bg {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  z-index: -1;
+  opacity: 0.8;
+  width: 500px;
+}
+
+/* Login css */
+.login {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.login-img {
+  width: 50%;
+}
+.login-img img {
+  width: 100%;
+}
+.login-form {
+  width: 25vw;
+  height: auto;
+  padding: 20px 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 0px 60px -12px rgba(0, 0, 0, 0.2);
+}
+.login-form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-img {
+  width: 100%;
+  height: 200px;
+  background-image: url("../images/profile.gif");
+  background-position: center;
+  background-size: cover;
+}
+.login-bg {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 200px;
+}
+.login-nav {
+  width: 90%;
+  margin: 5px auto;
+}
+.btn {
+  background-color: #63a4ff;
+  background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+}
+
+/* Electronics css */
+.experiments {
+  width: 70%;
+  max-width: 1350px;
+  padding: 0px 20px;
+  /* overflow-y: scroll; */
+}
+.computer-experiments {
+  padding: 0px 20px;
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  padding-right: 28%;
+}
+.computer-experiments-flex {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.experiments-flex {
+  width: 100%;
+  overflow-y: scroll;
+  display: flex;
+  flex-wrap: wrap;
+}
+.bg-electronics {
+  position: absolute;
+  width: 500px;
+  bottom: 0px;
+  right: 0px;
+  z-index: -2;
+}
+.simulator-btn {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  background-image: url("../images/simulator-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.logic-gate-div {
+  display: flex;
+}
+.experiment-details {
+  padding: 10px;
+  max-width: 60%;
+  height: 80vh;
+  overflow-y: scroll;
+  background: #f1f1f1;
+  border-radius: 20px;
+}
+.experiment-details::-webkit-scrollbar {
+  display: none;
+}
+.logic-gate {
+  width: 100%;
+  height: 100vh;
+  padding: 5px 20px;
+}
+.logic-gate h3 {
+  line-height: 50px;
+}
+.experimets-btns {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.download-btn {
+  width: 75%;
+  margin: 10px auto 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.experiments h3 {
+  margin: 5px auto;
+}
+
+/* Logic gate simulator stylesheet */
+.logic-gate-simulator {
+  width: 100%;
+  height: auto;
+  padding: 0px 20px;
+  display: flex;
+  flex-direction: column;
+}
+.select-logic {
+  width: 30%;
+  padding: 10px;
+  height: 90px;
+  border-radius: 15px;
+  background: #ededed;
+}
+.gate-img {
+  width: 400px;
+}
+
+.gate-img-div {
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.simulator-div {
+  width: 100%;
+  display: flex;
+}
+.truth-table-div {
+  width: 30%;
+}
+.ex-bg {
+  bottom: -100px;
+}
+.electrical-div {
+  padding: 20px;
+}
+.electrical-div img {
+  width: 550px;
+}
+.electrical-body {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.logic-img {
+  display: flex;
+  align-items: center;
+}
+.truth-table-div {
+  text-align: center;
+}
+.logic-img h1 {
+  width: 100px;
+}
+.welcome__text {
+  color: #2a6f74;
+}
